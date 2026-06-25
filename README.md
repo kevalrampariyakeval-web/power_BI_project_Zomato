@@ -1,4 +1,4 @@
-# 🍽️ Zomato Analytics Dashboard | Power BI Project
+### 🍽️ Zomato Analytics Dashboard | Power BI Project
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -130,25 +130,29 @@ Since GitHub doesn't support uploading large Power BI (.pbix) files, the complet
 
 ## 🏠 Home Page
 
-![Home Page](Images/home_page.png)
+<img width="578" height="321" alt="PIC-1" src="https://github.com/user-attachments/assets/2e7d64df-e852-450c-b699-5315e692f91e" />
+
 
 ---
 
 ## 📊 Executive Dashboard
 
-![Dashboard Overview](Images/dashboard_overview.png)
+<img width="575" height="322" alt="PIC-2" src="https://github.com/user-attachments/assets/5edd765c-d507-49ce-b92f-28d52d842b89" />
+
 
 ---
 
 ## 👥 User Analytics Dashboard
 
-![User Performance](Images/user_performance.png)
+<img width="575" height="320" alt="PIC-3" src="https://github.com/user-attachments/assets/5093ab1d-06e2-439c-bfaf-2113c78427a1" />
+
 
 ---
 
 ## 🌍 City Performance Dashboard
 
-![City Performance](Images/city_performance.png)
+<img width="576" height="322" alt="PIC-4" src="https://github.com/user-attachments/assets/911f9a1e-576a-4004-b587-90613ee391f2" />
+
 
 ---
 
