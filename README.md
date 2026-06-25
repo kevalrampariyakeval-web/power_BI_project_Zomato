@@ -1,252 +1,231 @@
-# 🍽️ Zomato Sales & User Analytics Dashboard
+# 🍽️ Zomato Analytics Dashboard | Power BI Project
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Project-Completed-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-Business%20Intelligence-blue?style=for-the-badge"/>
+</p>
 
-## 📌 Project Overview
+<h1 align="center">📊 Zomato Sales & User Analytics Dashboard</h1>
 
-This project is an interactive **Power BI Dashboard** developed using Zomato sales and customer data. The dashboard provides actionable insights into sales performance, customer behavior, user demographics, and city-wise business performance.
-
-The main goal of this project is to transform raw business data into meaningful visualizations that support data-driven decision-making.
-
----
-
-## 🔗 Project Access
-
-Since GitHub does not support uploading large Power BI (.pbix) files, the complete project file has been hosted on Google Drive.
-
-📁 **Power BI Dashboard File (.pbix)**
-
-👉 **Google Drive Link:**
-https://drive.google.com/drive/folders/1mpgMJya7JunOanHfqsMRNmrf3r3hN6hb?usp=sharing
-
-### 📌 Note
-
-The repository contains project documentation and dashboard screenshots. The original Power BI dashboard file can be downloaded from the Google Drive link above.
+<p align="center">
+Transforming raw Zomato data into actionable business insights through interactive dashboards and compelling visual storytelling.
+</p>
 
 ---
 
-# 🚀 Dashboard Pages
+# 🌟 Project Overview
+
+This Power BI project focuses on analyzing Zomato's sales and customer data to uncover meaningful business insights.
+
+The dashboard provides a complete overview of:
+
+✅ Sales Performance
+
+✅ Customer Behavior
+
+✅ User Demographics
+
+✅ City-Wise Analysis
+
+✅ Customer Acquisition & Churn
+
+✅ Yearly and Monthly Trends
+
+By leveraging Power BI's visualization capabilities, the project enables stakeholders to make smarter and data-driven business decisions.
+
+---
+
+# 🎥 Dashboard Access
+
+Since GitHub doesn't support uploading large Power BI (.pbix) files, the complete project can be accessed through Google Drive.
+
+### 📂 Download Dashboard
+
+🚀 **Power BI File (.pbix)**
+
+🔗 https://drive.google.com/drive/folders/1mpgMJya7JunOanHfqsMRNmrf3r3hN6hb?usp=sharing
+
+> 📌 Download the PBIX file from the link above to explore the complete dashboard.
+
+---
+
+# 🚀 Dashboard Highlights
 
 ## 🏠 Home Page
 
-* Attractive Zomato-themed landing page
-* Navigation buttons for seamless user experience
-* Professional dashboard interface
+✨ Modern Landing Page
+
+✨ Interactive Navigation
+
+✨ Professional Zomato Theme
+
+✨ Smooth User Experience
 
 ---
 
-## 📊 Dashboard Overview
+## 📊 Executive Dashboard
 
-### Key Metrics
+### Key KPIs
 
-* 💰 Total Amount
-* 📈 Total Sales Value
-* ⭐ Rating Count
-* 🛒 Order Count
+💰 Total Revenue
 
-### Visualizations
+📈 Sales Value
 
-* 🍩 Sales Value by Marital Status
-* 🏙️ Top 5 City Quantity Analysis
-* 📉 Sales Trend by Year
-* 🍔 Food Category Analysis
+⭐ Rating Count
+
+🛒 Total Orders
+
+### Business Insights
+
+🍔 Food Category Performance
+
+🏙️ Top Performing Cities
+
+📉 Sales Trend Analysis
+
+👨‍👩‍👧 Marital Status Analysis
 
 ---
 
-## 👥 User Performance Dashboard
+## 👥 User Analytics Dashboard
 
-### Key Insights
+### Customer Insights
 
-* Active User Analysis
-* User Count Monitoring
-* Gain Customer Analysis
-* Lost Customer Analysis
-* Age-wise Customer Distribution
-* Gender-wise Customer Insights
+👤 Active Users
 
-### KPIs
+📈 User Growth
 
-* 👤 Active Users
-* 📊 User Count
-* ⭐ Rating Count
-* 🛍️ Order Count
+📉 Lost Customers
+
+🎯 Gained Customers
+
+### Demographic Insights
+
+👨 Male vs Female Analysis
+
+🎂 Age Distribution Analysis
+
+📊 Customer Segmentation
 
 ---
 
 ## 🌍 City Performance Dashboard
 
-### Key Insights
+### City-Level Insights
 
-* City-wise Sales Analysis
-* Active Users by City
-* Monthly Sales Performance
-* Gain Users Analysis
-* Lost Users Analysis
+🏙️ Sales by City
 
-### Features
+📈 Revenue Distribution
 
-* 🔄 Amount & Quantity Toggle
-* 📍 Interactive City Analysis
-* 📈 Monthly Sales Tracking
+👥 Active Users by City
+
+📅 Monthly Sales Analysis
+
+📊 Gain & Lost User Tracking
 
 ---
 
-# 🛠️ Tools & Technologies Used
-
-| Tool               | Purpose                        |
-| ------------------ | ------------------------------ |
-| Power BI           | Dashboard Development          |
-| Power Query        | Data Cleaning & Transformation |
-| DAX                | Calculated Measures & KPIs     |
-| Data Modeling      | Relationship Management        |
-| Excel/CSV          | Data Source                    |
-| Data Visualization | Business Insights              |
-
----
-
-# 📈 Key Business Insights
-
-✅ Identified top-performing cities based on sales revenue.
-
-✅ Analyzed customer acquisition and customer churn patterns.
-
-✅ Tracked monthly and yearly sales performance.
-
-✅ Compared gained and lost customers across demographics.
-
-✅ Evaluated customer engagement using active user metrics.
-
-✅ Generated actionable business insights through interactive dashboards.
-
----
-
-# 🎯 Business Value
-
-This dashboard helps businesses:
-
-* 📊 Monitor sales performance
-* 👥 Understand customer behavior
-* 🌍 Identify high-performing cities
-* 📈 Track growth trends
-* 🎯 Improve decision-making
-* 🔍 Analyze customer retention
-
----
-
-# 📸 Dashboard Screenshots
+# 📸 Dashboard Preview
 
 ## 🏠 Home Page
 
-Add Screenshot Here
-
-```text
-images/home_page.png
-```
+![Home Page](Images/home_page.png)
 
 ---
 
-## 📊 Dashboard Overview
+## 📊 Executive Dashboard
 
-Add Screenshot Here
-
-```text
-images/dashboard_overview.png
-```
+![Dashboard Overview](Images/dashboard_overview.png)
 
 ---
 
-## 👥 User Performance Dashboard
+## 👥 User Analytics Dashboard
 
-Add Screenshot Here
-
-```
-! Dashboard images/PIC-2.png
-```
+![User Performance](Images/user_performance.png)
 
 ---
 
 ## 🌍 City Performance Dashboard
 
-Add Screenshot Here
+![City Performance](Images/city_performance.png)
 
-```text
-images/city_performance.png
-```
+---
+
+# 🎯 Business Questions Solved
+
+✔ Which cities generate the highest revenue?
+
+✔ How many customers were gained and lost?
+
+✔ What is the age distribution of customers?
+
+✔ Which months perform best in terms of sales?
+
+✔ How do customer demographics impact business growth?
+
+✔ What are the overall sales trends across years?
+
+---
+
+# 🛠️ Technology Stack
+
+| Category         | Tools Used            |
+| ---------------- | --------------------- |
+| 📊 Visualization | Power BI              |
+| 🧮 Calculations  | DAX                   |
+| 🔄 ETL           | Power Query           |
+| 🗂 Data Modeling | Power BI Model View   |
+| 📁 Data Source   | Excel / CSV           |
+| 📈 Analytics     | Business Intelligence |
 
 ---
 
 # 📚 Skills Demonstrated
 
-### Data Analytics
+### 📊 Data Analytics
 
 * Data Cleaning
 * Data Transformation
-* Exploratory Data Analysis
+* Exploratory Data Analysis (EDA)
+* Business Analysis
 
-### Power BI
+### ⚡ Power BI
 
-* Dashboard Design
-* Interactive Reports
-* KPI Development
+* Dashboard Development
 * DAX Measures
-* Power Query
-
-### Business Intelligence
-
 * Data Modeling
+* Drill Through
+* Interactive Filters
+* KPI Cards
+
+### 📈 Business Intelligence
+
+* Customer Segmentation
+* Sales Analytics
+* Performance Tracking
 * Data Storytelling
-* Business Insights Generation
 
 ---
 
-# 🎓 Learning Outcomes
+# 🏆 Key Achievements
 
-Through this project, I gained hands-on experience in:
+🚀 Built a multi-page interactive Power BI dashboard.
 
-✔ Data Cleaning & Preparation
+🚀 Created dynamic KPIs using DAX.
 
-✔ Data Modeling
+🚀 Designed professional and business-friendly visualizations.
 
-✔ DAX Calculations
+🚀 Analyzed customer acquisition and churn metrics.
 
-✔ Dashboard Design Principles
-
-✔ Business Intelligence Reporting
-
-✔ Data Storytelling
-
-✔ User-Centric Visualization Design
+🚀 Generated actionable insights for strategic decision-making.
 
 ---
 
-# 🤝 Connect With Me
+# 👨‍💻 About Me
 
-### 👨‍💻 Keval Rampariya
+### Keval Rampariya
 
-Aspiring Data Analyst | Power BI Developer | Business Intelligence Enthusiast
+⭐ Thank You For Visiting ⭐
 
-📌 LinkedIn: Add Your LinkedIn Profile Link Here
-
-📌 Portfolio: Add Portfolio Link Here
-
----
-
-# ⭐ Support
-
-If you found this project useful, please consider:
-
-⭐ Starring the repository
-
-🍴 Forking the project
-
-💬 Sharing your feedback
-
-📢 Connecting with me on LinkedIn
-
----
-
-## 🚀 Thank You For Visiting This Project!
-
-### Built with ❤️ using Power BI
+</div>
