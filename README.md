@@ -1,6 +1,6 @@
 <div align="center">
   
-### 🍽️ Zomato Analytics Dashboard | Power BI Project
+##### 🍽️ Zomato Analytics Dashboard | Power BI Project
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
